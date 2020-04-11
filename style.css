@@ -1,0 +1,19 @@
+body{
+  background-image: linear-gradient(to right, red, white);
+}
+
+div{
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 2px solid white;
+  background-repeat: no-repeat;
+}
+
+.satu {
+  background-image: linear-gradient(to top, white, blue);
+}
+
+.dua {
+  background-image: linear-gradient(to right, white, blue, white);
+}
